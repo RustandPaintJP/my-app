@@ -21,14 +21,18 @@ export const verbs = [
 "Noodling",
 "Pestering",
 "Prattling",
+"Stinking",
+"Mewling",
+"Farting",
+"Ass-Blasting",
 "Sniveling"
   // add your own verbs here...
 ];
 
 export const adjectives = [
-  "flaccid",
-  "soggy",
-  "crusty",
+  "Flaccid",
+  "Soggy",
+  "Crusty",
   "Arrogant",
 "Boorish",
 "Callous",
@@ -48,6 +52,9 @@ export const adjectives = [
 "Spiteful",
 "Squeamish",
 "Vapid",
+"Rotten",
+"Overripe",
+"Sour",
 "Vindictive"
   // add your own adjectives here...
 ];
@@ -76,6 +83,11 @@ export const nouns = [
 "Simpleton",
 "Sycophant",
 "Toady",
+"Crayon",
+"Dongle",
+"Ice Cream",
+"Mushroom",
+"Bellend",
 "Jabroni"
   // add your own nouns here...
 ];
