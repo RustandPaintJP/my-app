@@ -84,5 +84,5 @@ export function generateInsult(): string {
   const verb = verbs[Math.floor(Math.random() * verbs.length)];
   const adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
   const noun = nouns[Math.floor(Math.random() * nouns.length)];
-  return `you ${verb}, ${adjective} ${noun}`;
+  return `You ${verb}, ${adjective} ${noun}`;
 }
